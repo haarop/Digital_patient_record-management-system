@@ -1,33 +1,47 @@
-## Application Screenshots
+# Application Screenshots
 
-### Login Screen
+## Login Screen
 
-![Login](screenshots/login.png)
+![Login](login%20page.PNG)
 
-### Register Screen
+---
 
-![Register](screenshots/register.png)
+## Register Screen
 
-### Dashboard
+![Register](register%20page.PNG)
 
-![Dashboard](screenshots/dashboard.png)
+---
 
-### Patient Management
+## Dashboard
 
-![Patients](screenshots/patients.png)
+![Dashboard](dashboard.PNG)
 
-### Doctor Management
+---
 
-![Doctors](screenshots/doctors.png)
+## Patient Management
 
-### Appointment Management
+![Patient Management](patient%20registration.PNG)
 
-![Appointments](screenshots/appointments.png)
+---
 
-### Medical Records
+## Doctor Management
 
-![Medical Records](screenshots/medical_records.png)
+![Doctor Management](doctor's%20registration.PNG)
 
-### Reports
+---
 
-![Reports](screenshots/reports.png)
+## Appointment Management
+
+![Appointment Management](appoint%20booking.PNG)
+
+---
+
+## Medical Records
+
+![Medical Records](medical%20records.PNG)
+
+---
+
+## Reports
+
+![Reports](reports.PNG)
